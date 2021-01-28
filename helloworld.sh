@@ -9,8 +9,11 @@
 #What is a variable:  A variable is like a bag.  It is empty until you put something in it
 
 #Declaration
-my_variable="Hello World"
+var_name="ip a"
+foot="socks"
 
 #Call
-echo $my_variable
-
+echo $var_name
+$var_name
+echo $foot
+echo $"leg"
